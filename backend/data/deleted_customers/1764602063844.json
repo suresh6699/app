@@ -16,5 +16,24 @@
     "isDeleted": true,
     "deletedAt": 1764602104256,
     "deletedFrom": "monday"
+  },
+  {
+    "id": "TEST_1764605217",
+    "internalId": "1764605217886_edsgtz3wu",
+    "name": "Test Customer",
+    "village": "Test Village",
+    "phone": "1234567890",
+    "takenAmount": 12000,
+    "interest": 1500,
+    "pc": 500,
+    "date": "2025-12-01",
+    "weeks": 10,
+    "profileImage": null,
+    "createdAt": "2025-12-01T16:06:57.886Z",
+    "updatedAt": "2025-12-01T16:06:57.886Z",
+    "isDeleted": true,
+    "deletedAt": 1764605235043,
+    "deletionTimestamp": 1764605235043,
+    "deletedFrom": "Sun"
   }
 ]

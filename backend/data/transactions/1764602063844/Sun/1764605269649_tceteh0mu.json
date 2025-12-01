@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1764605269689",
+    "amount": 12000,
+    "date": "2025-12-01",
+    "comment": "Test payment",
+    "customerName": "Test Customer",
+    "createdAt": "2025-12-01T16:07:49.689Z",
+    "type": "payment",
+    "source": "quick"
+  }
+]
